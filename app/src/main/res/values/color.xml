@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBackgroundGrey">#78aaaaaa</color>
+    <color name="colorBackgroundHoloBlue">#0099cc</color>
+    <color name="colorTabIndicator">#FFc3f0ff</color>
+    <color name="colorTabUnderline">#00ffffff</color>
+</resources>
